@@ -55,7 +55,10 @@ export default function MapContainer() {
         </h3>
 
         <div className="source-link">
-          <a href="todo" target="_new">
+          <a
+            href="https://github.com/adeaap/fly-to-the-office-3d-map"
+            target="_new"
+          >
             View Source Code ↗
           </a>
         </div>
